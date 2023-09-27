@@ -27,7 +27,7 @@ if __name__ == '__main__':
    
     brilho = 100
     contraste = 3
-    processos = int(input("Quantidade de processos: ")) # Maximo: 508 - 25/09/2023
+    processos = int(input("Quantidade de processos: "))
     
     start_time = perf_counter()
     
